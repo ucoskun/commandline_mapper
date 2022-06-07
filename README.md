@@ -4,3 +4,7 @@ A program that controls three ClearPath-SC servo motors to move a Bartington tri
 
 Platform : Windows (x64) only
 Mapper located at University of Kentucky Physics Department CP-36
+
+# TO-DO
+
+- Implement a feedback mechanism using internal encoder readings of ClearPath-SC servo motors in order to correct for spatial translational errors.
